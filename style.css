@@ -1,0 +1,23 @@
+body
+{
+    text-align: center;
+}
+
+#app {
+    background-color: aliceblue;
+}
+
+#myCarousel
+{
+    background-color: rgb(227, 161, 183);
+
+}
+#myCarousel img{
+margin-top: 20px;
+}
+p{
+    font-size: 20px;
+    color:darkblue;
+    font-family:'Times New Roman', Times, serif;
+}
+
